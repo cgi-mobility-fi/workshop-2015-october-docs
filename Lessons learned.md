@@ -34,6 +34,6 @@ Development
 
 Paavo's feedback:
 
-*For me it seems to be necessary event we should organize regularly. In addition to covering new technologies it gives to team also common understanding about nice and clean code. Seeing someone's coding style on a big screen brought up some questions about coding conventions, which should be common for all team members.*
+*For me it seems to be a necessary event we should organize regularly. In addition to covering new technologies, it gives the team also common understanding about nice and clean code. Seeing coding style on a big screen brought up some questions about coding conventions, which should be common in the team – and the DevDay was a great opportunity to discuss it.*
 
-*Overall I got the impression that less theory and more hands-on is better, but overall it was fun and we’ll send out also „lessons learnt“ summary.*
+*Overall I got the impression that less theory and more hands-on coding is better. It was lots of fun overall.*
